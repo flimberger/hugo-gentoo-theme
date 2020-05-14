@@ -3,9 +3,9 @@
 
 name = "Hugo Gentoo Theme"
 license = "MIT"
-licenselink = "https://github.com/d-kusk/hugo-gentoo-theme/blob/master/LICENSE.md"
-description = "It is the theme of Hugo. Created by imagining the Gentoo penguin."
-homepage = "https://github.com/d-kusk/hugo-gentoo-theme"
+licenselink = "https://github.com/flimberger/hugo-gentoo-theme/blob/master/LICENSE.md"
+description = "This is a Hugo theme inspired by the look of the Gentoo penguin."
+homepage = "https://github.com/flimberger/hugo-gentoo-theme"
 tags = ["blog", "responsive"]
 features = ["blog", "themes", "responsive", "Google Analytics"]
 min_version = 0.19
