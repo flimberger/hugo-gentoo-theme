@@ -7,18 +7,15 @@ licenselink = "https://github.com/flimberger/hugo-gentoo-theme/blob/master/LICEN
 description = "This is a Hugo theme inspired by the look of the Gentoo penguin."
 homepage = "https://github.com/flimberger/hugo-gentoo-theme"
 tags = ["blog", "responsive"]
-features = ["blog", "themes", "responsive", "Google Analytics"]
+features = ["blog", "themes", "responsive"]
 min_version = 0.19
 
-[author]
-  name = "Daisuke Konishi"
-  homepage = "https://blog.daisukekonishi.com"
+authors = [
+    {name = "Daisuke Konishi", homepage = "https://blog.daisukekonishi.com"},
+    {name = "Florian Limberger", homepage = "https://machineroom.purplekraken.com"}
+]
 
-# If porting an existing theme
 [original]
-  name = "Gentoo"
-  homepage = "https://github.com/d-kusk/hugo-gentoo-theme/"
-  repo = "https://github.com/d-kusk/hugo-gentoo-theme/"
-
-[params]
-  dateformat = "Jan 2, 2006" # Optional
+    author = "Daisuke Konishi"
+    homepage = "https://github.com/d-kusk/hugo-gentoo-theme/"
+    repo = "https://github.com/d-kusk/hugo-gentoo-theme/"
